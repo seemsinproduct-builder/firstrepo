@@ -1,10 +1,7 @@
-# 🧊 Fridge Chef
+**Links to Product Portfolio**
 
-An AI-powered app that helps you discover recipes based on ingredients available in your fridge.
-
+1) Fridge Chef - An AI-powered app that helps you discover recipes based on ingredients available in your fridge.
 🔗 **Live App:** https://fridge-chef--seemsinproduct.replit.app/
-
----
 
 ## ✨ Features
 - Enter ingredients you already have
@@ -12,15 +9,11 @@ An AI-powered app that helps you discover recipes based on ingredients available
 - Reduce food waste
 - Simple, clean UI
 
----
-
 ## 🛠 Tech Stack
 - Replit
 - Python / Node.js (update if needed)
 - AI-powered recipe logic
 - HTML / CSS / JS
-
----
 
 ## 🚀 How to Run Locally
 1. Clone the repository
